@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rolf Eckertz
-- 👀 I’m interested in node.js, PWA, sqlite3, MongoDB, OSM gamification and climate-science
-- 💞️ I’m looking to collaborate on climate-science tools
+- 👀 I’m technically interested in node.js, progressive web applications, large scale cluster analysis
+- 💞️ I’m looking to collaborate on climate-science weather data analysis and data mining
 - 📫 How to reach me via info@eckertz-consult.com
 
 <!---
